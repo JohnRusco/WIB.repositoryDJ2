@@ -11,6 +11,7 @@ public class ProjectAlpha {
    System.out.println("HELLO WORLD");
    System.out.println("HELLO WORLD");
    System.out.println("HELLO WORLD");
+   system.out.println("ahoj");
    
     }
     
